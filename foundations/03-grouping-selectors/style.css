@@ -1,0 +1,18 @@
+.one, .two {
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.one {
+  background-color: #000;
+  color: white;
+}
+
+.two {
+  background-color: rgb(228, 228, 33);
+}
+
+/* .both {
+  font-size: 28px;
+  font-family: 'Helvetica', 'Times New Roman', sans-serif;
+} */
